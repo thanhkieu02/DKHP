@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IwVWf/qbrSPchG/NRwQ+l8LmMUWLKSxE1tTsXgpHg2f8pzJcFaRICFUa4ghNIK66jC9Z8W1hRjbpuissDNgEgA==",
+  "success": true,
+  "projectFilePath": "/home/hungvu/Desktop/DKHP/DKHP.csproj",
+  "expectedPackageFiles": [
+    "/home/hungvu/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
